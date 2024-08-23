@@ -15,5 +15,5 @@ const merge = (nums1, m, nums2, n) => {
   return nums1;
 };
 
-const r = merge([1, 2, 3], 3, [4, 5], 2);
-console.log(r);
+const result = merge([1, 2, 3], 3, [4, 5], 2);
+console.log(result);
